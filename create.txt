@@ -1,5 +1,0 @@
-{
-  "title": "API Created Task",
-  "description": "Created via curl command", 
-  "status": "in_progress"
-}
